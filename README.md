@@ -2,7 +2,7 @@
 
 Skills : Mechatronics , IoT , Robotics , Electronics , Machine Learning 
 
-This project is made by me ( Ayush Agarwal ) , Shivansh Dubey , Vishal Gosain and Manali Pawar . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself . This project was made under a time span of 15 days .
+This project is made by me ( Ayush Agarwal ) , Shivansh Dubey , Vishal Gosain and Manali Pawar . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself . This project was made under a time span of 14 days .
 
 ## Introduction and the problem statment taken by us :
 
