@@ -28,4 +28,12 @@ The above image shows the structure of the VOCMEF as made by me on the CAD softw
 
 The VOCMEF has rollers , 2 DoF Robotic arm like structure , Normal forklift lifting part with additional belt rollers , scissor lifter , double wishbone suspension , Mecanum wheels , central plate like structure , microprocessor etc .
 
+## Operation of the VOCMEF 
+
+The VOCMEF is optimised to lift both boxed goods as well as collection of smaller goods ( which I saw was also one of the things forklifts were used for in the videos ) . 
+
+For the boxed goods , the vocmef approaches from the roller side . First the robotic arms squeeze and hold the box from the side , then the roller rolls , thus making the box lie down on the central plate . This gives the box low center of gravity thus giving advantages which I will explain in the next part . Then , while unloading , the central plate moves up to the height required and the robotic arms push the box , thus being optimised to put the goods at a height too . 
+
+For a collection of objects (say a bunch of metal sheets ) , 
+
 
