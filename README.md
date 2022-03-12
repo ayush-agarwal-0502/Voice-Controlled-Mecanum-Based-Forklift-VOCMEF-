@@ -45,5 +45,8 @@ For a collection of objects (say a bunch of metal sheets ) , we can use the side
 * **Reduces Human Injury :** Since VOCMEF is voice controlled , hence there is no human worker requires 'on' the machine , hence preventing human injury which happened in the existing forklifts . 
 * **More capacity :** Since there is no human operator on the machine itself , there is more space on the machine , hence it can carry more goods at a time .
 * **WFH for factory workers :** VOCMEF even enables the factory workers to do work from home , given that they are given the live surveillance footage of the warehouse / factory , since the machine can be controlled by voice only or even by sending signals using phone . 
+* **Better motion and stability :** Usage of Mecanum wheels allows VOCMEF to move in all directions which is suitable since most warehouses might not have the space to make a full turn like the ackerman or any other normal steering system and the double wishbone suspension is an indepedent suspension , meaning both wheels have a suspension independent of the other side wheel , thus introducing even more stability to the VOCMEF . 
+
+![image](https://user-images.githubusercontent.com/86561124/158012239-e7796bf3-344a-4718-81a9-144107e20645.png)
 
 
