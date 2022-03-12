@@ -2,7 +2,7 @@
 
 Skills : Mechatronics , IoT , Robotics , Electronics , Machine Learning 
 
-This project is made by me ( Ayush Agarwal ) , Shivansh Dubey , Vishal Gosain and Manali Pawar . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself .
+This project is made by me ( Ayush Agarwal ) , Shivansh Dubey , Vishal Gosain and Manali Pawar . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself . This project was made under a time span of 15 days .
 
 ## Introduction and the problem statment taken by us :
 
@@ -34,6 +34,16 @@ The VOCMEF is optimised to lift both boxed goods as well as collection of smalle
 
 For the boxed goods , the vocmef approaches from the roller side . First the robotic arms squeeze and hold the box from the side , then the roller rolls , thus making the box lie down on the central plate . This gives the box low center of gravity thus giving advantages which I will explain in the next part . Then , while unloading , the central plate moves up to the height required and the robotic arms push the box , thus being optimised to put the goods at a height too . 
 
-For a collection of objects (say a bunch of metal sheets ) , 
+For a collection of objects (say a bunch of metal sheets ) , we can use the side of the structure that is similar to the original forklift . However , unlike the former forklift , there are belt rollers on it , so that first the object is put on it , then it is rolled to the center plate , which keeps the goods more stable , hence gives advantages which I will explain in the next session .
+
+## Advantages over the traditional forklift 
+
+* **Prevents the sideways toppling :** Since there is a robot arm on the side , the extended rod like structure prevents the sideways toppling of the goods .
+* **Prevents the forward toppling :** Since the goods are now closer to the center of the forklift , thus providing more stability compared to the traditional forklift where the goods used to fall off the edge due to disbalance .
+* **Boxes optimisation :** VOCMEF is optimised to differently lift boxes and stacks . While lifting boxes it can provide even lower center of gravity due to keeping it sideways (lying position ) , thus even more topple free conditions .
+* **Reduces Forklift Toppling :** As the goods are kept more towards the center , just above the stability zone , hence avoids the toppling of the forklift itself .
+* **Reduces Human Injury :** Since VOCMEF is voice controlled , hence there is no human worker requires 'on' the machine , hence preventing human injury which happened in the existing forklifts . 
+* **More capacity :** Since there is no human operator on the machine itself , there is more space on the machine , hence it can carry more goods at a time .
+* **WFH for factory workers :** VOCMEF even enables the factory workers to do work from home , given that they are given the live surveillance footage of the warehouse / factory , since the machine can be controlled by voice only or even by sending signals using phone . 
 
 
