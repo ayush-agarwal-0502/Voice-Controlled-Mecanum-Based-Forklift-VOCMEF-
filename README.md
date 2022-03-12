@@ -49,4 +49,16 @@ For a collection of objects (say a bunch of metal sheets ) , we can use the side
 
 ![image](https://user-images.githubusercontent.com/86561124/158012239-e7796bf3-344a-4718-81a9-144107e20645.png)
 
+# Mechatronic model of the VOCMEF :
+![image](https://user-images.githubusercontent.com/86561124/158012343-6329bed8-8de1-4e22-a005-3b3de65c8647.png)
+
+## Machine Learning part of the project :
+Details best explained in slides :
+
+![image](https://user-images.githubusercontent.com/86561124/158012581-eb8a441b-53f8-4073-a44f-c346f2075017.png)
+
+![image](https://user-images.githubusercontent.com/86561124/158012617-2db48ce4-e6a6-46f1-a91a-bf46ab5f476e.png)
+
+
+
 
