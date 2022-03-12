@@ -53,6 +53,12 @@ For a collection of objects (say a bunch of metal sheets ) , we can use the side
 ![image](https://user-images.githubusercontent.com/86561124/158012343-6329bed8-8de1-4e22-a005-3b3de65c8647.png)
 
 ## Machine Learning part of the project :
+
+Datasets : 
+
+* http://storage.googleapis.com/download.tensorflow.org/data/mini_speech_commands.zip
+* https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
+
 ML model along with weights have been uploaded in this repository . Details best explained in slides :
 
 ![image](https://user-images.githubusercontent.com/86561124/158012581-eb8a441b-53f8-4073-a44f-c346f2075017.png)
