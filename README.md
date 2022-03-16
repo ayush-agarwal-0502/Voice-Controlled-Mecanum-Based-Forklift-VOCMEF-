@@ -2,7 +2,7 @@
 
 Skills : Mechatronics , IoT , Robotics , Electronics , Machine Learning , Communication 
 
-This project is made by me ( Ayush Agarwal ) , Shivansh Dubey , Vishal Gosain and Manali Pawar . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself . This project was made under a time span of 14 days .
+This project is made by me ( Ayush Agarwal ) , Shivansh Dubey , Vishal Gosain and Manali Pawar . The CAD files, ML model and its weights , Proteus , Arduino files have been uploaded in this repository itself . This project was made under a time span of 14 days . This project also secured 3rd rank in Robotics Conclave , a competition held under Technex , tech fest of IIT BHU Varanasi 
 
 ## Introduction and the problem statment taken by us :
 
